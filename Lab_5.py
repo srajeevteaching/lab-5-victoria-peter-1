@@ -50,8 +50,5 @@ while (room<=5):
         type = input("What floor type would you like room? ")
         type = type.lower().strip()
 
-
-
-
-
+print("total price: ", total)
 
